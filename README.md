@@ -6,12 +6,24 @@ My freind Danny and I are creating a random project.
 <!DOCTYPE html>
 <html lang: "en">
     <head> 
-        <h2 style= "font-family: Roboto">HELLO DANNY<h2>
-        <title>Our Web Project</title>
+        <style>
+            P{
+                font-family: Calibri;
+                font-size:
+                color:
+                background-color:
+            }
+        </style>
+        
+            <title>Our Web Project</title>
+        
+            <h2 style= "font-family: Roboto">HELLO DANNY<h2>
     </head>
     
     <body>
         
-        <p> 
+        <p> <!--DANNY! IMPUT!!!!--> 
+            HeLlO tHeRe!
+        </p>
     </body>
 </html>
